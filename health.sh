@@ -1,4 +1,4 @@
 #!/bin/bash
 
 /bin/echo "sreenu"
-exit 2
+exit 0
